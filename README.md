@@ -1,4 +1,5 @@
 FindTheFiles - README
+
 Overview
 Welcome to FindTheFiles — a comprehensive utility designed to help you search for, analyze, and manage files, folders, programs, browser extensions, and Internet Explorer homepage overrides. The tool also includes a basic malware scanning feature, allowing users to check for potentially malicious files or processes on their system. However, note that this malware scan is still in development and is not a professional-grade malware detection tool. Use it with caution.
 FindTheFiles is an all-in-one executable file (FindTheFiles.exe), which packages all necessary components into one convenient program. There's no need to install Python or any external dependencies, making it quick and easy to run on any Windows system.
